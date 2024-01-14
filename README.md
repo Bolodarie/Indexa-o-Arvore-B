@@ -32,3 +32,9 @@ As seguintes funcionalidades deverão estar disponíveis:
 2. Listar os dados de todos os clientes [percurso ordenado na árvore B]
 3. Pesquisa por chave primária, i.e., “CodCli+CodVel” [índice primário - árvore B]
 4. Carrega Arquivos (dependente da implementação)
+
+A fim de facilitar os testes e avaliação do projeto, serão fornecidos dois arquivos:
+a) “insere.bin”
+| b) “busca.bin”
+
+Necessita da pasta 'Utils'
